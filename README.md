@@ -18,7 +18,7 @@ This is a simple Sudoku solver application built using Python's `Tkinter` librar
 ## Usage
 
 1. **Run the Application:**
-   - To run the application, execute the script `sudoku_solver.py` with Python.
+   - To run the application, execute the script `solver.py` with Python.
 
    ```bash
-   python sudoku_solver.py
+   python solver.py
